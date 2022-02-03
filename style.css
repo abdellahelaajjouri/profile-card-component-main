@@ -15,7 +15,7 @@
 }
 body{ 
     font-family: 'Kumbh Sans', sans-serif; 
-    background-color: var(--Dark-cyan);
+    background-color: var(--Dark-grayish-blue);
     background-image: url('./images/bg-pattern-top.svg'),
     url('./images/bg-pattern-bottom.svg');
     background-repeat: no-repeat, no-repeat;
